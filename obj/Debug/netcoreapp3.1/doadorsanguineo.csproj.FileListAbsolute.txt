@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.exe
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.dll
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\bin\Debug\netcoreapp3.1\doadorsanguineo.pdb
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\obj\Debug\netcoreapp3.1\doadorsanguineo.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\obj\Debug\netcoreapp3.1\doadorsanguineo.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\obj\Debug\netcoreapp3.1\doadorsanguineo.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\obj\Debug\netcoreapp3.1\doadorsanguineo.dll
+C:\Users\Maria Luiza\Documents\Luiza\doadorsanguineo\doadorsanguineo\obj\Debug\netcoreapp3.1\doadorsanguineo.pdb
